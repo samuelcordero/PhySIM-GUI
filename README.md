@@ -3,7 +3,7 @@
 A 2D Physics Simulator written in Java. Implements Newton's gravitation laws and constant accelaration simulations. Bodies are loaded from json files (examples in /resources/bodies)
 
 
-Usage: 
+## Usage: 
 
   simulator.launcher.Main [-cmp <arg>] [-dt <arg>] [-eo <arg>] [-fl <arg>] [-h] [-i <arg>] [-m <arg>] [-o <arg>] [-s <arg>]
  -cmp,--comparator <arg>       State comparator to be used when comparing
